@@ -29,6 +29,6 @@ Here are some useful datasets for your machine learning projects:
 
 ## Google Colab
 You can access our Google Colab notebooks here:
-- [Google Colab Notebooks]([https://colab.google](https://colab.research.google.com/drive/1yQCoXdXYhSH9PofAmjyF26Ya9foXfvTb?usp=sharing))
+- [Google Colab Notebooks](https://colab.research.google.com/drive/1yQCoXdXYhSH9PofAmjyF26Ya9foXfvTb?usp=sharing)
 
 ---
