@@ -16,8 +16,8 @@ The Machine Learning path is dedicated to learning and mastering the creation of
 ---
 
 ## Technologies Used
-[![Tensorflow](https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000)](https://www.tensorflow.org) [](https://www.tensorflow.org)
-[![Google Colab](https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000)](https://colab.google) [](https://colab.google)
-[![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)](https://www.python.org) [](https://www.python.org/)
-[![Kaggle](https://img.icons8.com/?size=100&id=Omk4fWoSmCHm&format=png&color=000000)](https://www.kaggle.com/) [](https://www.kaggle.com/)
+[![Tensorflow](https://img.icons8.com/?size=48&id=n3QRpDA7KZ7P&format=png&color=000000)](https://www.tensorflow.org) [](https://www.tensorflow.org)
+[![Google Colab](https://img.icons8.com/?size=48&id=lOqoeP2Zy02f&format=png&color=000000)](https://colab.google) [](https://colab.google)
+[![Python](https://img.icons8.com/?size=48&id=13441&format=png&color=000000)](https://www.python.org) [](https://www.python.org/)
+[![Kaggle](https://img.icons8.com/?size=48&id=Omk4fWoSmCHm&format=png&color=000000)](https://www.kaggle.com/) [](https://www.kaggle.com/)
 ---
