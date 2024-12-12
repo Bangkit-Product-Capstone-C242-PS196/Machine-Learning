@@ -22,5 +22,13 @@ The Machine Learning path is dedicated to learning and mastering the creation of
 [![Kaggle](https://img.icons8.com/?size=48&id=Omk4fWoSmCHm&format=png&color=000000)](https://www.kaggle.com/) [](https://www.kaggle.com/)
 ---
 
-## Documentation Machine Learning
-Click here
+## Datasets
+Here are some useful datasets for your machine learning projects:
+- [Machine Learning Repository](https://github.com/Bangkit-Product-Capstone-C242-PS196/Machine-Learning)
+- [Kaggle Datasets]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/fannyzahrahramadhan/rupiah-kertas-2022)
+
+## Google Colab
+You can access our Google Colab notebooks here:
+- [Google Colab Notebooks]([https://colab.google](https://colab.research.google.com/drive/1yQCoXdXYhSH9PofAmjyF26Ya9foXfvTb?usp=sharing))
+
+---
